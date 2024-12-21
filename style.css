@@ -23,6 +23,7 @@ body{
     flex-direction: column;
     left: 50px;
 backdrop-filter: blur(90%);
+    margin:auto 10px;
     
   
 }
